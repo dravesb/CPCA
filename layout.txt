@@ -1,0 +1,40 @@
+CPCA Talk 
+
+Part 0 
+
+- Motivation for the talk  
+- Outline
+
+Part 1: PCA 
+
+- PCA Picture / Intuitive motivation
+	- Penguins! 
+- Notational setup with population parameters 
+- Def first, second, and general PC
+- Derive PC1 
+- Derive PC2 
+- Give matrix notation for k-PCs 
+- Computational note: SVD 
+- Give a full example 
+
+Part 2: CPCA 
+
+- CPCA motivation 
+	- Return to penguin example and make a note about different species
+	- Make a note about how there is no 'maximal variance direction'
+- Introduce problem 
+- MLE set up / Algorithmic solution
+- CPCs and the X2 statistic
+- Computational note: SVD 
+- Back to penguins
+
+
+Part 3: Randomized SVD 
+
+- Motivate rSVD 
+- Sketch Algorithm 
+- Give a few high level error bounds
+- Implement on Penguins and compare results
+
+Wrap up
+
